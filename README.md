@@ -9,6 +9,14 @@ Hľadáme dobrovolníkov na:
 - preklad textov z češtiny do slovenčiny
 - tvorbu vlastného obsahu a funkcionality stránok
 
+
+# pre prekladateľov
+
+Je treba preložiť texty:
+- z webu [uklidmecesko.cz](http://www.uklidmecesko.cz) - všetko čo je použitelne aj na slovensku, najme FAQ, navody ako organizovať atd.
+- niektore dalšie texty (najme tie čo su v zdrojákoch a na webe ich priamo nevidno) su v adresári *src/texty na preklad*
+- v adresári *src/obrazky na preklad* su texty v obrazkoch. |Bohužial v svg nie je text ako text, čiže s tím bude viac roboty - asi napisat vlastný text to je hned.
+
 # pre vývojárov
 
 ## livereload
